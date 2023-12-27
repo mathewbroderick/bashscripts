@@ -3,6 +3,7 @@
 a place for my bash scripts
 
 working on these rn: 
+
     Weather Report Script:
     Create a script that fetches the current weather information for a given location using a weather API. You can display the temperature, conditions, and other relevant details.
 
